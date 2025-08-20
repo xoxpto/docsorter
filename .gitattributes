@@ -1,7 +1,20 @@
 * text=auto
+
+# For?ar LF nos textos/c?digo
 *.py   text eol=lf
 *.yml  text eol=lf
 *.yaml text eol=lf
+*.toml text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
 *.sh   text eol=lf
-*.ps1  text eol=crlf
-*.bat  text eol=crlf
+
+# Bin?rios (sem convers?es)
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.pdf  binary
+*.docx binary
+*.xlsx binary
+*.zip  binary
