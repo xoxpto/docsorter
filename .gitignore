@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.egg-info/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.build/
+dist/
+
+# Venv
+.venv/
+
+# IDEs/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Config local
+my.config.yaml
+# Logs
+*.log
+docsorter.log
+
+# Config local (exemplo fica, pessoal fica de fora)
+my.config.yaml
